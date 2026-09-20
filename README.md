@@ -1,6 +1,6 @@
 # egress-guard
 
-[pi coding agent](https://github.com/earendil-works/pi-coding-agent) 扩展：控制"什么内容进模型"的出站防护。在执行前拦截敏感文件读取，在执行后与出站前对密钥做脱敏。
+[pi agent](https://github.com/earendil-works/pi) 扩展：控制"什么内容进模型"的出站防护。在执行前拦截敏感文件读取，在执行后与出站前对密钥做脱敏。
 
 ## 功能
 
